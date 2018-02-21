@@ -1,1 +1,3 @@
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+Maria Eduarda,  
+IFRN- programação de jogos digitais  
+meduardafreire.melf@gmail.com
