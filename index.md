@@ -1,7 +1,6 @@
 ## quem sou eu?  
 Maria Eduarda,  
-IFRN- programação de jogos digitais,    
-meduardafreire.melf@gmail.com  
+IFRN- programação de jogos digitais,     
   
 ## mapa de influências
 ![](https://github.com/dudins/dudins.github.io/blob/master/map%20influence.png?raw=true)  
@@ -14,4 +13,8 @@ meduardafreire.melf@gmail.com
 ![](https://github.com/dudins/dudins.github.io/blob/master/bfr.png?raw=true)  
 
 [Quizz Potengi](https://mrbtrzmoraes.github.io/Quiz1/)  
-![](https://github.com/dudins/dudins.github.io/blob/master/potengi.png?raw=true)
+![](https://github.com/dudins/dudins.github.io/blob/master/potengi.png?raw=true)  
+  
+## contatos pessoais  
+meduardafreire.melf@gmail.com   
+@_mdudaf
