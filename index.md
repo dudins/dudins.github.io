@@ -8,5 +8,6 @@ meduardafreire.melf@gmail.com
 
 ## meus jogos  
 [Fit Food](https://mrbtrzmoraes.github.io/FitFood)  
+![](https://github.com/dudins/dudins.github.io/blob/master/fitfood.png?raw=true)
 
 [BFR](https://thaynanmedeiros.github.io/BFR/)
