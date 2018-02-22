@@ -15,6 +15,8 @@ IFRN- programação de jogos digitais,
 [Quizz Potengi](https://mrbtrzmoraes.github.io/Quiz1/)  
 ![](https://github.com/dudins/dudins.github.io/blob/master/potengi.png?raw=true)  
   
-## contatos pessoais  
+## projetos e eventos  
+  
+## contatos  
 meduardafreire.melf@gmail.com   
 @_mdudaf
