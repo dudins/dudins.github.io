@@ -14,4 +14,4 @@ meduardafreire.melf@gmail.com
 ![](https://github.com/dudins/dudins.github.io/blob/master/bfr.png?raw=true)  
 
 [Quizz Potengi](https://mrbtrzmoraes.github.io/Quiz1/)  
-![]()
+![](https://github.com/dudins/dudins.github.io/blob/master/potengi.png?raw=true)
