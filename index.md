@@ -23,6 +23,8 @@ Natal-RN.
 EXPOTEC campus ceará-mirim(2017), expositora do projeto jogos e o conhecimento da cultura budista.  
 
 ## extras  
+![](https://github.com/dudins/dudins.github.io/blob/master/Coralineoficial1.jpg?raw=true)  
+Projeto de design gráfico- cartaz minimalista
 
   
 ## contatos  
